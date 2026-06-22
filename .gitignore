@@ -1,0 +1,15 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo module cache
+.hugo_build.lock
+
+# Go module cache
+/vendor/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
