@@ -27,7 +27,7 @@ Robert A. Bagheri is an Associate Professor of NLP, Machine Learning, and Interp
 
 ### Ruurd Kuiper — UMC Utrecht
 
-Ruurd Kuiper is an Assistant Professor in AI and NLP for Healthcare at UMC Utrecht. His research focuses on clinically grounded machine learning and natural language processing, with an emphasis on trustworthy AI systems and their integration into real-world clinical workflows. His work spans language models, clinical documentation support, and the evaluation and deployment of AI in healthcare practice.
+Ruurd Kuiper is an Assistant Professor in AI and NLP for Healthcare at UMC Utrecht. His research focuses on clinically applied machine learning and natural language processing, with an emphasis on trustworthy AI systems and their integration into real-world clinical workflows. His work spans language models, clinical documentation support, and the evaluation and deployment of AI in healthcare practice. He has a special interest in foundational solutions to issues arising from the current implementation of LLMs, and has researched and developed specialized models aimed at circumventing them.
 
 [ruurdkuiper.com](https://www.ruurdkuiper.com/)
 

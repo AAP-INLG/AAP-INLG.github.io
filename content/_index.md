@@ -10,7 +10,7 @@ A half-day workshop co-located with the [19th International Conference on Natura
 
 Autoregressive transformers have dominated Natural Language Generation for years. While scaling these models has brought remarkable results, next-token prediction is not the only path forward. This workshop creates a dedicated forum — the **Alternative Architectures and Paradigms (AAP) Workshop** — to broaden the academic focus and look beyond traditional Transformers.
 
-We bring together foundational AI builders and language generation experts to explore non-traditional architectures that learn, process, and generate language differently: structures that scale efficiently, update their memories dynamically, and make language systems more transparent.
+We aim to bring together foundational AI builders and language generation experts to explore non-traditional architectures that learn, process, and generate language differently: structures that scale efficiently, update their memories dynamically, and make language systems more transparent and factuality accurate.
 
 ---
 

@@ -12,11 +12,13 @@ The full program will be announced after the paper acceptance notification (1 Se
 
 ## Schedule
 
+<style>table td:first-child { white-space: nowrap; }</style>
+
 | Time | Session |
 |---|---|
-| 09:00–09:15 | **Opening** — Welcome and introduction to the workshop |
-| 09:15–09:30 | **Introduction** — Overview of the Alternative Architectures Project |
-| 09:30-10:15 | **Keynote / Oral Session 1** — Invited talk or 3 oral presentations |
+| 09:00–09:15 | **Opening** — Coffee and welcome |
+| 09:15–09:30 | **Introduction** — Overview of the AAP workshop |
+| 09:30–10:15 | **Keynote / Oral Session 1** — Invited talk and presentations |
 | 10:15–10:30 | **Coffee Break** — Poster viewing |
 | 10:30–11:30 | **Oral Session 2** — 3 oral presentations |
 | 11:30–11:45 | **Coffee Break** — Poster viewing |
@@ -32,8 +34,8 @@ The full program will be announced after the paper acceptance notification (1 Se
 
 ## Planned Activities
 
-### Keynotes & 
-Invited talk from a leading NLG researcher and 
+### Keynote
+Invited talk from a leading NLG researcher.
 
 ### Oral Presentations
 Presentations of selected high-profile accepted papers.

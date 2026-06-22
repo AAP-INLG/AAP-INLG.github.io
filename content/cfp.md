@@ -6,7 +6,7 @@ description: "Submit your work on alternative architectures and generative parad
 
 ## Overview
 
-In the past few years, autoregressive transformers have been the dominant method in Natural Language Generation (NLG). While scaling these models has brought astounding results, this approach relies on a single generative paradigm (sequential next-token prediction), a single method (neural networks), and a single architecture (the transformer decoder). This layout comes with significant limitations: quadratic computational cost, an inability to correct mid-generation, and a lack of learning during inference time. Furthermore, high-quality training data is becoming scarce.
+In the past few years, autoregressive transformers have been the dominant method in Natural Language Generation (NLG). While scaling these models has brought astounding results, this approach relies on a single core method (neural networks), a single generative paradigm (sequential next-token prediction), and a single architecture (the transformer decoder). This layout comes with significant limitations: quadratic computational cost, hallucinations, and a lack of learning during inference time, just to name a few. Furthermore, relying on scaling alone becomes more difficult high-quality training data is becoming scarce and compute more expensive.
 
 This workshop creates a dedicated forum — the **Alternative Architectures Project (AAP)** — to expand and diversify core NLG architecture research. Our goal is to encourage the community to focus on non-traditional machine learning structures that learn, process, and generate language differently.
 
