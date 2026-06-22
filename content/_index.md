@@ -35,4 +35,12 @@ We welcome both completed research and exploratory ideas. See the [Call for Pape
 
 ---
 
+## Organizers
+
+This workshop is organised by members of the [NLP@Utrecht](https://nlp-utrecht.github.io/) community, a research group spanning Utrecht University and UMC Utrecht. The group works at the intersection of natural language processing, machine learning, and real-world applications — combining expertise in language model evaluation, explainable AI, and clinical NLP.
+
+[Meet the organizers →](/organizers/)
+
+---
+
 **Contact:** [r.j.a.kuiper@umcutrecht.nl](mailto:r.j.a.kuiper@umcutrecht.nl) · [a.bagheri@uu.nl](mailto:a.bagheri@uu.nl)

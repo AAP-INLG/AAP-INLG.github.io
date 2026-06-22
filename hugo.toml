@@ -13,6 +13,9 @@ theme = 'github.com/gohugo-ananke/ananke/v2'
   recent_posts_number = 0
   show_reading_time = false
   nav_title = "AAP 2026"
+
+[params.ananke]
+  show_recent_posts = false
   # To switch themes: change the [[module.imports]] path above and update this theme line.
   # Then run: hugo mod get <new-theme-module-path>
 
