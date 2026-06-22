@@ -1,4 +1,4 @@
-baseURL = 'https://rkuiper.github.io/AAP-workshop/'
+baseURL = 'https://AAP-INLG.github.io/'
 locale = 'en-us'
 title = 'AAP 2026 — Alternative Architectures and Paradigms'
 theme = 'github.com/gohugo-ananke/ananke/v2'
