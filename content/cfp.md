@@ -16,7 +16,7 @@ This workshop creates a dedicated forum — the **Alternative Architectures Proj
 
 We invite submissions exploring any alternative core models and non-traditional generation paradigms. Topics of interest include, but are not limited to:
 
-- **Non-autoregressive diffusion & flow paradigms** — Models that generate text by parallel refinement across a window rather than token-by-token, enabling native text rewriting and infilling.
+- **Non-autoregressive generative paradigms** — Models that generate text by parallel refinement across a window rather than token-by-token, enabling native text rewriting and infilling.
 - **Test-Time Training (TTT) & deep neural memory** — Architectures where model weights dynamically update during inference, replacing static KV caches to handle long contexts efficiently.
 - **State Space Models (SSMs) & linear hybrids** — Layouts like Mamba that process sequences with linear complexity, enabling massive context processing at a fraction of the computing cost.
 - **Joint Embedding Predictive Architectures (JEPA)** — Non-generative core structures that predict abstract concepts in a latent space instead of predicting individual surface tokens.
