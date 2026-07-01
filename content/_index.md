@@ -18,12 +18,11 @@ We aim to bring together foundational AI builders and language generation expert
 
 | Event | Date |
 |---|---|
-| First Call for Papers | 1 June 2026 |
-| Workshop Paper Submission Due | **1 August 2026** |
-| Paper Acceptance Notification | 1 September 2026 |
+| **Workshop Paper Submission Due** | **9 August 2026** |
+| Paper Acceptance Notification | 12 September 2026 |
 | Camera-Ready Papers Due | 16 September 2026 |
 | INLG 2026 Conference | 17–21 October 2026 |
-| **AAP Workshop** | **18 October 2026** |
+| **AAP Workshop** | **18 October 2026** (TBC) |
 
 ---
 
