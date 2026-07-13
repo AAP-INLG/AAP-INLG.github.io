@@ -30,7 +30,7 @@ We aim to bring together foundational AI builders and language generation expert
 
 We welcome both completed research and exploratory ideas. See the [Call for Papers](/cfp/) for full details.
 
-[Submit on OpenReview](https://openreview.net/) — *link will be updated when the submission site is open*
+[Submit on OpenReview](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/AAP) — **Now open for submission!**
 
 ---
 
