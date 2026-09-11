@@ -6,7 +6,7 @@ description: "Workshop schedule for AAP 2026"
 
 *18 October 2026, Utrecht, Netherlands (TBC)*
 
-The full program will be announced after the paper acceptance notification (1 September 2026). The schedule below shows the planned structure.
+The full program will be announced after the paper acceptance notification (15 September 2026). The schedule below shows the planned structure.
 
 ---
 

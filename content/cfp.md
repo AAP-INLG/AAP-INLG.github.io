@@ -71,8 +71,8 @@ Papers should be submitted through OpenReview:
 | Event | Date |
 |---|---|
 | **Workshop Paper Submission Due** | **9 August 2026** |
-| Paper Acceptance Notification | 12 September 2026 |
-| Camera-Ready Papers Due | 16 September 2026 |
+| Paper Acceptance Notification | ~~12 September 2026~~<br><strong style="color: #b00020;">15 September 2026</strong> |
+| Camera-Ready Papers Due | ~~16 September 2026~~<br><strong>20 September 2026</strong> |
 | INLG 2026 Conference | 17–21 October 2026 |
 | **AAP Workshop** | **18 October 2026** (TBC) |
 
