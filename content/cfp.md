@@ -12,6 +12,14 @@ This workshop creates a dedicated forum — the **Alternative Architectures Proj
 
 ---
 
+### Submission Site
+
+Papers should be submitted through OpenReview:
+
+**[Submit on OpenReview](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/AAP)** — **Now open for submission!**
+
+---
+
 ## Core Themes
 
 We invite submissions exploring any alternative core models and non-traditional generation paradigms. Topics of interest include, but are not limited to:
@@ -57,12 +65,6 @@ Review is **double-blind**. Please ensure your submission is fully anonymised.
 ### Multiple-Submission Policy
 
 Non-archival versions may be under review elsewhere. Please indicate any parallel submissions at submission time.
-
-### Submission Site
-
-Papers should be submitted through OpenReview:
-
-**[Submit on OpenReview](https://openreview.net/)** — *link will be updated when the submission site is open*
 
 ---
 
