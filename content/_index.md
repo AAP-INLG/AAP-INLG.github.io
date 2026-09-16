@@ -6,7 +6,7 @@ featured_image: "/images/utrecht-netherlands.jpg"
 
 A half-day workshop co-located with the [19th International Conference on Natural Language Generation (INLG 2026)](https://2026.inlgmeeting.org/), Utrecht, Netherlands.
 
-<p style="color: #b00020;"><strong>Deadline update:</strong><br>Paper acceptance notifications: <strong>15 September 2026</strong><br>Camera-ready papers due: <strong>20 September 2026</strong></p>
+<p style="color: #b00020;"><strong>Deadline update:</strong><br>Paper acceptance notifications: <strong>15 September 2026</strong><br>Camera-ready papers due: <strong>23 September 2026</strong></p>
 
 ---
 
@@ -30,7 +30,7 @@ We aim to bring together foundational AI builders and language generation expert
 |---|---|
 | **Workshop Paper Submission Due** | **9 August 2026** |
 | Paper Acceptance Notification | ~~12 September 2026~~<br><strong style="color: #b00020;">15 September 2026</strong> |
-| Camera-Ready Papers Due | ~~16 September 2026~~<br><strong>20 September 2026</strong> |
+| Camera-Ready Papers Due | ~~16 September 2026~~<br><strong>23 September 2026</strong> |
 | INLG 2026 Conference | 17–21 October 2026 |
 | **AAP Workshop** | **18 October 2026** |
 
