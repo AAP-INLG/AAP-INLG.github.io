@@ -32,7 +32,7 @@ We aim to bring together foundational AI builders and language generation expert
 | Paper Acceptance Notification | ~~12 September 2026~~<br><strong style="color: #b00020;">15 September 2026</strong> |
 | Camera-Ready Papers Due | ~~16 September 2026~~<br><strong>20 September 2026</strong> |
 | INLG 2026 Conference | 17–21 October 2026 |
-| **AAP Workshop** | **18 October 2026** (TBC) |
+| **AAP Workshop** | **18 October 2026** |
 
 ---
 
