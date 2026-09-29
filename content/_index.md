@@ -6,21 +6,23 @@ featured_image: "/images/utrecht-netherlands.jpg"
 
 A half-day workshop co-located with the [19th International Conference on Natural Language Generation (INLG 2026)](https://2026.inlgmeeting.org/), Utrecht, Netherlands.
 
-<p style="color: #b00020;"><strong>Deadline update:</strong><br>Paper acceptance notifications: <strong>15 September 2026</strong><br>Camera-ready papers due: <strong>23 September 2026</strong></p>
+Join us on **Sunday, 18 October 2026**, at the Spoorwegmuseum. Lunch is provided at the venue free of charge.
 
 ---
 
-## Submit Your Work
+## Program and Registration
 
-We welcome both completed research and exploratory ideas. See the [Call for Papers](/cfp/) for full details.
+The workshop program is now available, featuring a keynote and six accepted-paper presentations.
 
-[Submit on OpenReview](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/AAP) — **Now open for submission!**
+[View the workshop program →](/program/)
+
+[Register through INLG 2026 →](https://2026.inlgmeeting.org/registration.html)
 
 ---
 
 Autoregressive transformers have dominated Natural Language Generation for years. While scaling these models has brought remarkable results, next-token prediction is not the only path forward. This workshop creates a dedicated forum — the **Alternative Architectures and Paradigms (AAP) Workshop** — to broaden the academic focus and look beyond traditional Transformers.
 
-We aim to bring together foundational AI builders and language generation experts to explore non-traditional architectures that learn, process, and generate language differently: structures that scale efficiently, update their memories dynamically, and make language systems more transparent and factuality accurate.
+We aim to bring together foundational AI builders and language generation experts to explore non-traditional architectures that learn, process, and generate language differently: structures that scale efficiently, update their memories dynamically, and make language systems more transparent and factually accurate.
 
 ---
 
