@@ -42,7 +42,7 @@ We aim to bring together foundational AI builders and language generation expert
 
 <img src="/images/chen-shani.jpg" alt="Chen Shani" style="display:block;width:320px;max-width:100%;height:auto;margin:1.5rem auto;border-radius:0.25rem;">
 
-### Chen Shani — Tel Aviv University
+### Chen Shani
 
 Chen Shani is a Senior Lecturer at Tel Aviv University, where she leads the CoAI Lab, studying concepts, knowledge, and cognition in AI systems. Her research focuses on understanding what language models represent, how their knowledge is organized, and how these representations can be deliberately shaped. Before joining Tel Aviv University, she was a postdoctoral researcher at Stanford University and a researcher at Amazon. She holds a PhD in Computer Science from the Hebrew University of Jerusalem.
 
