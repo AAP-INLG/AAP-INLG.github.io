@@ -38,9 +38,10 @@ Ruurd Kuiper is an Assistant Professor in AI and NLP for Healthcare at UMC Utrec
 
 ## Program Committee
 
-We are in the process of assembling a program committee of experts from relevant research communities to ensure high-quality reviews and paper selection.
+We thank our program committee members for reviewing submissions and helping with paper selection:
 
-*Program committee members will be announced here.*
+- Ece Takmaz
+- Bram van Es
 
 ---
 

@@ -10,6 +10,23 @@ description: "Workshop schedule for AAP 2026"
 
 ---
 
+## Keynote
+
+<div style="display:flex;align-items:flex-start;gap:1.5rem;margin:1.5rem 0 2rem;">
+<img src="/images/chen-shani.jpg" alt="Chen Shani" style="width:200px;max-width:38%;height:auto;object-fit:cover;border-radius:0.25rem;">
+<div>
+
+### From Found to Designed: Concepts as a Design Axis for Large Language Models
+
+**Chen Shani, Tel Aviv University**
+
+Chen Shani is a Senior Lecturer at Tel Aviv University, where she leads the CoAI Lab, studying concepts, knowledge, and cognition in AI systems. Her research focuses on understanding what language models represent, how their knowledge is organized, and how these representations can be deliberately shaped. Before joining Tel Aviv University, she was a postdoctoral researcher at Stanford University and a researcher at Amazon. She holds a PhD in Computer Science from the Hebrew University of Jerusalem.
+
+</div>
+</div>
+
+---
+
 ## Schedule
 
 <style>

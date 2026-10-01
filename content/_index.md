@@ -10,6 +10,25 @@ Join us on **Sunday, 18 October 2026**, at the Spoorwegmuseum. Lunch is provided
 
 ---
 
+## Keynote Speaker
+
+<div style="display:flex;align-items:flex-start;gap:1.5rem;margin:1.5rem 0 2rem;">
+<img src="/images/chen-shani.jpg" alt="Chen Shani" style="width:180px;max-width:38%;height:auto;object-fit:cover;border-radius:0.25rem;">
+<div>
+
+### Chen Shani — Tel Aviv University
+
+Chen Shani is a Senior Lecturer at Tel Aviv University, where she leads the CoAI Lab, studying concepts, knowledge, and cognition in AI systems. Her research focuses on understanding what language models represent, how their knowledge is organized, and how these representations can be deliberately shaped. Before joining Tel Aviv University, she was a postdoctoral researcher at Stanford University and a researcher at Amazon. She holds a PhD in Computer Science from the Hebrew University of Jerusalem.
+
+**Keynote:** *From Found to Designed: Concepts as a Design Axis for Large Language Models*
+
+[View the keynote in the workshop program →](/program/#keynote)
+
+</div>
+</div>
+
+---
+
 ## Program and Registration
 
 The workshop program is now available, featuring a keynote and six accepted-paper presentations.
