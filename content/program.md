@@ -80,7 +80,7 @@ description: "Workshop schedule for AAP 2026"
 
 <div class="program">
   <div class="program-item">
-    <div class="program-time">12:00–13:00</div>
+    <div class="program-time">12:30–13:30</div>
     <div>
       <div class="program-title">Lunch</div>
       <div class="program-description">Provided at the venue free of charge</div>
@@ -88,7 +88,7 @@ description: "Workshop schedule for AAP 2026"
   </div>
 
   <div class="program-item">
-    <div class="program-time">13:00–13:15</div>
+    <div class="program-time">13:30–13:45</div>
     <div>
       <div class="program-title">Welcome and Introduction</div>
       <div class="program-description">Opening remarks and an overview of the workshop</div>
@@ -96,7 +96,7 @@ description: "Workshop schedule for AAP 2026"
   </div>
 
   <div class="program-item" id="keynote">
-    <div class="program-time">13:15–14:00</div>
+    <div class="program-time">13:45–14:30</div>
     <div>
       <div class="program-title">Keynote: From Found to Designed: Concepts as a Design Axis for Large Language Models</div>
       <div class="program-speaker">Chen Shani</div>
@@ -107,7 +107,7 @@ description: "Workshop schedule for AAP 2026"
 
   <section class="program-session">
     <div class="program-session-header">
-      <div class="program-time">14:00–15:00</div>
+      <div class="program-time">14:30–15:30</div>
       <div>
         <div class="program-title">Presentation Session 1</div>
         <div class="program-description">Accepted paper presentations and discussion</div>
@@ -115,21 +115,21 @@ description: "Workshop schedule for AAP 2026"
     </div>
     <div class="program-talks">
       <div class="program-talk">
-        <div class="program-time">14:00–14:20</div>
+        <div class="program-time">14:30–14:50</div>
         <div>
           <div class="program-title">A Scrambled Positional Encoding Is Worse Than None</div>
           <div class="program-speaker">Srinivas Harish</div>
         </div>
       </div>
       <div class="program-talk">
-        <div class="program-time">14:20–14:40</div>
+        <div class="program-time">14:50–15:10</div>
         <div>
           <div class="program-title">Reconstructing Locality-Disrupted Text: Effects of Architecture and Scale</div>
           <div class="program-speaker">Evelien van Driel, Amirhossein Mohammadi, Robert A. Bagheri</div>
         </div>
       </div>
       <div class="program-talk">
-        <div class="program-time">14:40–15:00</div>
+        <div class="program-time">15:10–15:30</div>
         <div>
           <div class="program-title">Scan Order Is a Reasoning Prior: Geometry-Aware Multi-Directional Mamba-2 for Tiny Recursive Reasoning</div>
           <div class="program-speaker">Zhenxuan Yu</div>
@@ -139,7 +139,7 @@ description: "Workshop schedule for AAP 2026"
   </section>
 
   <div class="program-item">
-    <div class="program-time">15:00–15:15</div>
+    <div class="program-time">15:30–15:45</div>
     <div>
       <div class="program-title">Coffee Break</div>
       <div class="program-description">Refreshments and conversation</div>
@@ -148,7 +148,7 @@ description: "Workshop schedule for AAP 2026"
 
   <section class="program-session">
     <div class="program-session-header">
-      <div class="program-time">15:15–16:15</div>
+      <div class="program-time">15:45–16:45</div>
       <div>
         <div class="program-title">Presentation Session 2</div>
         <div class="program-description">Accepted paper presentations and discussion</div>
@@ -156,21 +156,21 @@ description: "Workshop schedule for AAP 2026"
     </div>
     <div class="program-talks">
       <div class="program-talk">
-        <div class="program-time">15:15–15:35</div>
+        <div class="program-time">15:45–16:05</div>
         <div>
           <div class="program-title">Does SAM Pay Off? A Cost-Adjusted Analysis of Sharpness-Aware Pretraining</div>
           <div class="program-speaker">Ivan Maksimov, Joqsan Azocar, Vasily Konovalov</div>
         </div>
       </div>
       <div class="program-talk">
-        <div class="program-time">15:35–15:55</div>
+        <div class="program-time">16:05–16:25</div>
         <div>
           <div class="program-title">Small Encoder-Decoders as Tool-Calling Backbones: A Capability Decomposition at 270M–1B</div>
           <div class="program-speaker">Sergey Pletenev</div>
         </div>
       </div>
       <div class="program-talk">
-        <div class="program-time">15:55–16:15</div>
+        <div class="program-time">16:25–16:45</div>
         <div>
           <div class="program-title">Autoregressive vs. Diffusion Language Models for Clinical Text Summarisation</div>
           <div class="program-speaker">Carlos Alejandro Conde Giron, Zexuan Li, Robert A. Bagheri, Ruurd Jan Anthonius Kuiper</div>
@@ -180,7 +180,7 @@ description: "Workshop schedule for AAP 2026"
   </section>
 
   <div class="program-item">
-    <div class="program-time">16:15–16:30</div>
+    <div class="program-time">16:45–17:00</div>
     <div>
       <div class="program-title">Closing Discussion</div>
       <div class="program-description">Reflections, next steps, and goodbye</div>
