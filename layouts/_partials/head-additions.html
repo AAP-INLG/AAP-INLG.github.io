@@ -1,0 +1,4 @@
+{{- partials.Include "hook.html" (dict "hook" "head-end" "context" .) -}}
+{{- with resources.Get "css/papers.css" | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+{{- end -}}

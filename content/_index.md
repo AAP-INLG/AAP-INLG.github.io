@@ -12,7 +12,9 @@ Join us on **Sunday, 18 October 2026**, at the Spoorwegmuseum. Lunch is provided
 
 ## Program and Registration
 
-The workshop program is now available, featuring a keynote and six accepted-paper presentations.
+The workshop program and accepted papers are now available, featuring a keynote and presentations of accepted work.
+
+[Read the accepted papers →](/accepted-papers/)
 
 [View the workshop program →](/program/)
 

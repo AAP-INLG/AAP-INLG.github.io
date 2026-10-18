@@ -1,0 +1,42 @@
+.accepted-list {
+  list-style: none;
+  margin: 1.5rem 0 2rem;
+  padding: 0;
+}
+.accepted-list li {
+  border-top: 1px solid #d9d9d9;
+  padding: 1.25rem 0;
+}
+.accepted-title {
+  font-weight: 700;
+  line-height: 1.4;
+}
+.accepted-authors {
+  color: #555;
+  font-size: 0.95em;
+  margin-top: 0.35rem;
+}
+.paper-kind {
+  color: #555;
+  font-size: 0.8em;
+  margin-top: 0.25rem;
+}
+.nested-links a.paper-pdf {
+  border: 1px solid currentColor;
+  border-radius: 0.25rem;
+  box-shadow: none;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.4rem;
+  text-decoration: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.nested-links a.paper-pdf:hover,
+.nested-links a.paper-pdf:focus-visible {
+  background: #eef5ff;
+}

@@ -30,8 +30,8 @@ theme = 'github.com/gohugo-ananke/ananke/v2'
     url = "/"
     weight = 1
   [[menus.main]]
-    name = "Call for Papers"
-    url = "/cfp/"
+    name = "Accepted Papers"
+    url = "/accepted-papers/"
     weight = 2
   [[menus.main]]
     name = "Program"
