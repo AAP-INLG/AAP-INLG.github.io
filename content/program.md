@@ -117,8 +117,8 @@ description: "Workshop schedule for AAP 2026"
       <div class="program-talk">
         <div class="program-time">14:30–14:50</div>
         <div>
-          <div class="program-title">A Scrambled Positional Encoding Is Worse Than None</div>
-          <div class="program-speaker">Srinivas Harish</div>
+          <div class="program-title">Scan Order Is a Reasoning Prior: Geometry-Aware Multi-Directional Mamba-2 for Tiny Recursive Reasoning</div>
+          <div class="program-speaker">Zhenxuan Yu</div>
         </div>
       </div>
       <div class="program-talk">
@@ -131,8 +131,9 @@ description: "Workshop schedule for AAP 2026"
       <div class="program-talk">
         <div class="program-time">15:10–15:30</div>
         <div>
-          <div class="program-title">Scan Order Is a Reasoning Prior: Geometry-Aware Multi-Directional Mamba-2 for Tiny Recursive Reasoning</div>
-          <div class="program-speaker">Zhenxuan Yu</div>
+          <div class="program-title"><del>A Scrambled Positional Encoding Is Worse Than None</del></div>
+          <div class="program-speaker"><del>Srinivas Harish</del></div>
+          <div class="program-description">Cancelled — presenter unable to attend</div>
         </div>
       </div>
     </div>
